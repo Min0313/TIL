@@ -99,4 +99,4 @@ int age ; // 정수(int)타입의 변수 age를 선언
    ###### 문자열 + any type → 문자열
    ###### any type + 문자열 → 문자열
    
-   
+    

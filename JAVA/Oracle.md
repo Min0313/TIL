@@ -36,3 +36,9 @@
 ## ⚠기본키 특징 : 유일하다 , 빈칸이 있으면 안된다
 
 ### DEPT = 부모 , EMP = 자식
+
+<br/>
+
+SQL>  SELECT DISTINCT job FROM emp; ☑ 중복되는 직무를 갖는 행은 모두 제거하고, 구분되는 직무를 하나씩만 검색
+( Structured Query Language 데이터베이스에 접근할 수 있는 데이터베이스 하부 언어 )
+

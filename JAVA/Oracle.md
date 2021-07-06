@@ -40,5 +40,5 @@
 <br/>
 
 SQL>  SELECT DISTINCT job FROM emp; ☑ 중복되는 직무를 갖는 행은 모두 제거하고, 구분되는 직무를 하나씩만 검색
-( Structured Query Language 데이터베이스에 접근할 수 있는 데이터베이스 하부 언어 )
+###### ( Structured Query Language 데이터베이스에 접근할 수 있는 데이터베이스 하부 언어 )
 

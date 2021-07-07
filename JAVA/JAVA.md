@@ -24,6 +24,8 @@
 
 ##### Ctrl+Space 자동완성
 
+##### Ctrl+Shitf+F 자동 정렬
+
 ## 소스파일 가져오기 
 
 ###### Package Explorer에서 우 클릭(빈화면에서 우클릭) → Import 클릭 → 맨위에 General → Existing Projects into Workspace 기존의 프로젝트를 workspace로 가져오기 → Browse.. → 폴더선택 → 옵션에 Copy projects into workspace를 체크 → Finish !
